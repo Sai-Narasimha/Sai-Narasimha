@@ -31,7 +31,7 @@
 <!-- <p>&nbsp;<img align="center" height=200px src="https://github-readme-stats.vercel.app/api?username=sai-narasimha&show_icons=true&locale=en" alt="sai-narasimha" /></p> -->
 
 
-<img width= 100% src = "https://camo.githubusercontent.com/478de9f2e149d7fce800d29398906f4c41ac95d051e0109a5e1d12c4a5d22fe1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7361726174682d31393426" />
+<img width= 50% src = "https://camo.githubusercontent.com/478de9f2e149d7fce800d29398906f4c41ac95d051e0109a5e1d12c4a5d22fe1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7361726174682d31393426" />
 
 <h2 align="left">✉️ Connect with me:</h2>
 
