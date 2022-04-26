@@ -23,7 +23,7 @@
 
 
 ## 📊 My Github Stats
-<img align="right" width=100% src = "https://github-readme-stats.vercel.app/api?username=Sai-Narasimha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align="right" width=70% src = "https://github-readme-stats.vercel.app/api?username=Sai-Narasimha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <img width=100% src = "https://camo.githubusercontent.com/a75aeca88118ac02143a575749c096f69f0111accad8ba45ddf7fc586ea7108c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676972656573686b756d617265646967612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" />
 
@@ -38,7 +38,7 @@
 
 <p align="left" display= "flex">
 <!--   
-<a href="https://twitter.com/mahindra_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahindra_1999" height="30" width="40" /></a> -->
+<a href="https://twitter.com/SaiNarasimhaB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SaiNarasimha" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/sai-narasimha-sn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-narasimha" height="30" width="40" /></a> <a href="https://www.facebook.com/sai.narasimha.1428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai narasimha" height="30" width="40" /></a> <a href="https://medium.com/@mahindrajayavaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahindrajayavaram" height="30" width="40" /></a>
 </p>
 
