@@ -1,11 +1,9 @@
-
-<h1 align="center">Hey there  I am Sai Narasimha B </h1>
-<h3 align="center"> MERN Stack Web Developer</h3>
-
 <div align = center>
   <img src = "https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt = "gif"/>
 </div>
 
+<h1 align="center">Hey there  I am Sai Narasimha B </h1>
+<h3 align="center"> MERN Stack Web Developer</h3>
 
 ## ❤ Views and Followers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-narasimha&label=Profile%20views&color=0e75b6&style=flat" alt="sai-narasimha" /> </p>
