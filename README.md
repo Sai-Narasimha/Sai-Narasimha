@@ -20,11 +20,9 @@
 
 - ⚡ Realised From **Don't have money to invest then time is ready.**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-narasimha&show_icons=true&locale=en&layout=compact" alt="sai-narasimha" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sai-narasimha&show_icons=true&locale=en" alt="sai-narasimha" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-narasimha&show_icons=true&locale=en&layout=compact" alt="sai-narasimha" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-narasimha&" alt="sai-narasimha" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
