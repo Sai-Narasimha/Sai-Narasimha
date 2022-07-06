@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Sai Narasimha</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
@@ -29,6 +34,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sai-Narasimha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sai-Narasimha" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-narasimha&show_icons=true&locale=en&layout=compact" alt="sai-narasimha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-narasimha&show_icons=true&locale=en" alt="sai-narasimha" /></p>
 
