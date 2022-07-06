@@ -2,7 +2,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sai Narasimha B </h1>
 <h3 align="center"> MERN Stack Web Developer</h3>
 
-<div>
+<div align = center>
   <img src = "https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt = "gif"/>
 </div>
 
