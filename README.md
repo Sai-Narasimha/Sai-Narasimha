@@ -2,7 +2,9 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sai Narasimha B </h1>
 <h3 align="center"> MERN Stack Web Developer</h3>
 
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+<div>
+  <img src = "https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt = "gif"/>
+</div>
 
 
 ## ❤ Views and Followers
