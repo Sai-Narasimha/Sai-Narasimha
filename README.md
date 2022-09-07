@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sai-portfolio-phi.vercel.app](https://sai-portfolio-phi.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, react, mongo DB**
+- 💬 Ask me about **HTML, CSS, JavaScript, react, redux, node, express, mongo DB**
 
 - 📫 How to reach me **bukkapatnam.sainarasimha@gmail.com**
 
