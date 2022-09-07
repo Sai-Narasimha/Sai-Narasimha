@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-narasimha&label=Profile%20views&color=0e75b6&style=flat" alt="sai-narasimha" /> </p>
 
-- 🌱 I’m a student pursuing Full Stack Web Development at Masai School **at Masai School**
+- 🌱 I’m a student pursuing Full Stack Web Development  **at Masai School**
 
 - 👨‍💻 All of my projects are available at [https://sai-portfolio-phi.vercel.app](https://sai-portfolio-phi.vercel.app)
 
