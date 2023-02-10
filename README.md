@@ -5,7 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m a student pursuing **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
+- I'm Working as a **JR React Dev** at **[Truequations Pvt Ltd]**
+- 
+- I pursued **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
 
 - Looking forward to lauching my career as an **SDE**
 
