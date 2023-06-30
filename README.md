@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- I'm Working as a **JR React Dev** at **[Truequations Pvt Ltd]**
+- I'm Working as a ** SDE-1 ** at ** [Truequations Pvt Ltd] **
 
 - I pursued **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
 
-- Looking forward to lauching my career as an **SDE**
+- Looking forward to lauching my career as an **SDE-2**
 
 - All of my projects are available at ***[My Github Repositories](https://github.com/Sai-Narasimha?tab=repositories)***
 
