@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- I'm Working as a ** SDE-1 ** at ** [Truequations Pvt Ltd] **
+- I'm Working as a **SDE-1** at **Truequations Pvt Ltd**
 
 - I pursued **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
 
